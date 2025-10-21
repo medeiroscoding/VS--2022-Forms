@@ -1,0 +1,17 @@
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\FrmTeste\FrmTeste\bin\Debug\net8.0-windows\FrmTeste.exe
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\FrmTeste\FrmTeste\bin\Debug\net8.0-windows\FrmTeste.deps.json
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\FrmTeste\FrmTeste\bin\Debug\net8.0-windows\FrmTeste.runtimeconfig.json
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\FrmTeste\FrmTeste\bin\Debug\net8.0-windows\FrmTeste.dll
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\FrmTeste\FrmTeste\bin\Debug\net8.0-windows\FrmTeste.pdb
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\FrmTeste\FrmTeste\obj\Debug\net8.0-windows\FrmTeste.Form1.resources
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\FrmTeste\FrmTeste\obj\Debug\net8.0-windows\FrmTeste.Properties.Resources.resources
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\FrmTeste\FrmTeste\obj\Debug\net8.0-windows\FrmTeste.csproj.GenerateResource.cache
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\FrmTeste\FrmTeste\obj\Debug\net8.0-windows\FrmTeste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\FrmTeste\FrmTeste\obj\Debug\net8.0-windows\FrmTeste.AssemblyInfoInputs.cache
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\FrmTeste\FrmTeste\obj\Debug\net8.0-windows\FrmTeste.AssemblyInfo.cs
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\FrmTeste\FrmTeste\obj\Debug\net8.0-windows\FrmTeste.csproj.CoreCompileInputs.cache
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\FrmTeste\FrmTeste\obj\Debug\net8.0-windows\FrmTeste.dll
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\FrmTeste\FrmTeste\obj\Debug\net8.0-windows\refint\FrmTeste.dll
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\FrmTeste\FrmTeste\obj\Debug\net8.0-windows\FrmTeste.pdb
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\FrmTeste\FrmTeste\obj\Debug\net8.0-windows\FrmTeste.genruntimeconfig.cache
+C:\Users\emers\OneDrive\Desktop\Pedro\VS 2022\FrmTeste\FrmTeste\obj\Debug\net8.0-windows\ref\FrmTeste.dll
